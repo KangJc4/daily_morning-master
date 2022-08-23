@@ -19,9 +19,9 @@ birthday1 = os.environ.get('BIRTHDAY' , '01-17')
 app_id = os.environ.get("APP_ID",'wx722fb8bef9b6c6c7')
 app_secret = os.environ.get("APP_SECRET",'90bef06649d2fee4249d58805c7344f6')
 
-user_id = os.environ.get("USER_ID",'oLd745-XziwN1t4LjNKY-gSYORiY')
+user_id = os.environ.get("USER_ID",'oLd7450av29GnW10LqklCxNOccqA')
 #模板id
-template_id = os.environ.get("TEMPLATE_ID",'yn1-BdZjFncufxGoo9TgnuTm2pC8sbI2NX2pa8c2lzQ')
+template_id = os.environ.get("TEMPLATE_ID",'BVj3FpyntgUYnlfgJ_xhIJjCY1p5V8rjQxbrXI0CFHE')
 meiriyiju = os.environ.get("MEIRIYIJU","每日一句")
 # start_date = os.environ['START_DATE']
 # city = os.environ['CITY']
