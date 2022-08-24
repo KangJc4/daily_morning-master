@@ -22,11 +22,3 @@ jobs:
         architecture: 'x64'
     - run: pip install -r ./requirements.txt && python ./main.py
 
-    env:
-      APP_ID: 'wx722fb8bef9b6c6c7'
-      APP_SECRET: '90bef06649d2fee4249d58805c7344f6'
-      TEMPLATE_ID: 'xkbvI6Od9bxqeytr6cCMMxVXWSjikY3uUprsL5Mloh0'
-      USER_ID: 'oLd745-XziwN1t4LjNKY-gSYORiY'
-      START_DATE: '2020-10-08'
-      BIRTHDAY: '10-18'
-      CITY: '北京'
